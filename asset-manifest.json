@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https,://M1shan1k.github.io/M1shan1k/static/css/main.1e98a638.css",
-    "main.js": "/https,://M1shan1k.github.io/M1shan1k/static/js/main.3fec0f9c.js",
-    "static/media/chain.png": "/https,://M1shan1k.github.io/M1shan1k/static/media/chain.30765b4f607f4f09ba13.png",
-    "static/media/logo.svg": "/https,://M1shan1k.github.io/M1shan1k/static/media/logo.958e7d840a62824b0702.svg",
-    "index.html": "/https,://M1shan1k.github.io/M1shan1k/index.html",
-    "main.1e98a638.css.map": "/https,://M1shan1k.github.io/M1shan1k/static/css/main.1e98a638.css.map",
-    "main.3fec0f9c.js.map": "/https,://M1shan1k.github.io/M1shan1k/static/js/main.3fec0f9c.js.map"
+    "main.css": "/https,://M1shan1k.github.io/movie-app/static/css/main.4d7ef9d7.css",
+    "main.js": "/https,://M1shan1k.github.io/movie-app/static/js/main.3fec0f9c.js",
+    "static/media/chain.png": "/https,://M1shan1k.github.io/movie-app/static/media/chain.30765b4f607f4f09ba13.png",
+    "static/media/logo.svg": "/https,://M1shan1k.github.io/movie-app/static/media/logo.958e7d840a62824b0702.svg",
+    "index.html": "/https,://M1shan1k.github.io/movie-app/index.html",
+    "main.4d7ef9d7.css.map": "/https,://M1shan1k.github.io/movie-app/static/css/main.4d7ef9d7.css.map",
+    "main.3fec0f9c.js.map": "/https,://M1shan1k.github.io/movie-app/static/js/main.3fec0f9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e98a638.css",
+    "static/css/main.4d7ef9d7.css",
     "static/js/main.3fec0f9c.js"
   ]
 }
